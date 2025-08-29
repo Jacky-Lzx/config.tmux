@@ -426,8 +426,8 @@ unbind C-a
 # set -g prefix C-a
 # bind C-a send-prefix
 
-bind-key < swap-window -t -1
-bind-key > swap-window -t +1
+bind-key < swap-window -t -1 \; select-window -t -1  # swap current window with the previous one
+bind-key > swap-window -t +1 \; select-window -t +1  # swap current window with the next one
 
 # Pass shift+enter keybindings to neovim
 bind -n S-Enter send-keys "[13;2u"
