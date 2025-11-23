@@ -4,7 +4,7 @@ My tmux config on mac.
 
 ## Overview
 
-![Overview](assets/imgs/25-11-23_17-00-08.avif)
+![Overview](assets/imgs/25-11-23_17-12-35.avif)
 
 ## Installation
 
