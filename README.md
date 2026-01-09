@@ -1,6 +1,6 @@
-# Config.tmux.mac
+# Config.tmux
 
-My tmux config on mac.
+My tmux config.
 
 ## Overview
 
